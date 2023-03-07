@@ -1,0 +1,65 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.dreambig{
+    color: olivedrab;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+
+.name-color{
+    color: olivedrab;
+}
+.sec1-half{
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+    
+}
+.sec1-half img{
+    width: 100%;
+   
+    
+}
+.link-button{
+    background-image: linear-gradient(rgb(57, 93, 23), rgb(118, 153, 28));
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.Title-color1{
+    color: olivedrab;
+}
+.study{
+    color: olivedrab;
+}
+.study-section{
+    width: 40%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 5%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.study-section-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+#civil{
+    border-left: 7px solid olivedrab;
+}
+#construction{
+    border-left: 7px solid olivedrab;
+}
+footer p{
+    text-align: center;
+    color: olivedrab;
+}
